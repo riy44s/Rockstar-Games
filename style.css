@@ -1,0 +1,266 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.nav-1{
+    background-color: black;
+    padding-block: 10px;
+}
+.img-1{
+    height:30px;
+    width: 30px;
+    margin-left: 550px;
+    margin-top:15px;
+}
+.fa-circle-user{
+    margin-left: 450px;
+    color: white;
+    font-size: x-large;
+    margin-block-end: 13px;
+}
+.fa-solid.fa-bars{
+    margin-left: 50px;
+    color: white;
+    font-size: x-large;
+}
+.space{
+    border: 1px solid rgb(39, 39, 39);
+}
+.containor{
+    background-color: black;
+    width: 100%;
+    height: 490px;
+    display: flex;
+}
+.img-2{
+    width: 870px;
+}
+.section2{
+    color: white;
+    margin-top: 40px;
+    font-family: Helvetica;
+    padding-left: 20px;
+}
+.space-2{
+    padding-bottom: 13px;
+}
+.btn{
+    border: 2px solid white;
+    padding: 20px 13px 13px 20px;
+    margin-inline-end: 70px;
+    margin-top: 30px;
+    margin-left: 30px;
+    padding-inline-start: 50px;
+    border-radius: 8px;
+    margin-inline-start: auto;
+}
+.btn a{
+    text-decoration: none;
+    color: white;
+    font-weight: 5px;
+    font-size: larger;
+    font-weight: 600;
+}
+.slides img{
+    padding-top: 144px;
+    width: 100%;
+    height: 200px;
+}
+.news{
+    color: rgb(255, 255, 255);
+    font-family: Helvetica;
+    padding-left: 48px;
+    padding-bottom: 33px;
+    background-color: rgb(8, 8, 8);
+    padding-top: 76px;
+    font-size: 30px;
+}
+.second-container-1{
+    background-color: rgb(8, 8, 8);
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.innerimg{
+    width: 28%;
+    height: 400px;
+}
+.innerimg img{
+    width: 100%;
+    height: 100%; 
+}
+.innertext{
+    border: 1px solid rgb(66, 66, 66);
+    padding-bottom: 50px;
+    border-radius: 10px;
+}
+.innertext-2{
+    border: 1px solid rgb(66, 66, 66);
+    padding-bottom: 80px;
+    border-radius: 10px;
+}
+.innertext-1{
+    border: 1px solid rgb(66, 66, 66);
+    padding-bottom: 24px;
+    border-radius: 10px;
+}
+.text-1{
+    color: white;
+    font-family: Helvetica;
+    margin-left: 23px;
+    padding-top: 40px;
+}
+.text-1 span{
+    color: gray;
+    font-family: Helvetica;
+    padding-inline: 10px;
+}
+.text-2{
+    color: white;
+    font-family: Helvetica;
+    font-size: 25px;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.second-container-2{
+    background-color: #0e0e0e;
+    width: 100%;
+    height: 660px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.third-container-3{
+    background-color: #0e0e0e;
+    width: 100%;
+    height: 790px;
+    display: block;
+}
+.view-1{
+color: white;
+font-family: Helvetica;
+padding-inline: 540px;
+padding-top: 45px;
+}
+.feature{
+color: white;
+margin-top: 150px;
+font-family: Helvetica;
+font-size: xx-large;
+padding-left: 80px;
+}
+.lastimg{
+display: flex;
+justify-content: space-evenly;
+padding: 30px;
+}
+.lastimg img{
+width: 20%;
+border-radius: 10px;
+}
+.view-2{
+color: white;
+font-family: Helvetica;
+padding-inline: 540px;
+padding-top: 45px;
+padding-bottom: 63px;
+}
+.footer-1{
+background-color: black;
+width: 100%;
+height: 350px;
+display: flex;
+justify-content: space-between;
+
+}
+.leftside-1{
+    color: white;
+    font-family: Helvetica;
+    padding: 80px;
+    font-size: 23px;
+    font-weight: 100;
+    text-decoration: none;
+}
+.leftside-1 a{
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+}
+.fa-solid, .fas{
+    font-size: 13px;
+}
+.leftside-2{
+    margin-top: 90px;
+    font-size: 13px;
+}
+.leftside-2 a{
+    color: grey;
+}
+
+.rightside-1{
+    margin-top: 80px;
+    margin-right: 120px;
+    font-size: 23px;
+}
+.rightside-1 a{
+    text-decoration: none;
+    color: white;
+    font-family: Helvetica;
+ 
+}
+.fa-globe{
+    color: white;
+    font-size: 20px;
+    margin-right: 3px;
+}
+.fa-chevron-down{
+    color: white;
+    margin-left: 5px;
+    font-size: 15px;
+}
+.fa-twitch{
+    color: white;
+    padding-top: 84px;
+}
+.fa-instagram{
+    color: white;
+}
+.fa-twitter{
+    color: white;
+}
+.fa-youtube{
+    color: white;
+}
+.fa-facebook-f{
+    color: white;
+}
+.bottom-1{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.bottom-text a{
+    text-decoration: none;
+    color: white;
+    font-family: Helvetica;
+    margin-left: 75px;
+}
+.bottom-text-1{
+   margin-right: 40px;
+}
+.bottom-text-1 a{
+    color: white;
+    text-decoration: none;
+    font-family: Helvetica;
+    margin-left: 10px;
+}
+.bottom-text-2 a{
+    color: white;
+    text-decoration: none;
+    margin-right: 100px;
+    font-family: Helvetica;
+}
