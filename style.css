@@ -50,10 +50,16 @@
     padding: 20px 13px 13px 20px;
     margin-inline-end: 70px;
     margin-top: 30px;
-    margin-left: 30px;
-    padding-inline-start: 50px;
+    padding-inline-start: 58px;
     border-radius: 8px;
-    margin-inline-start: auto;
+     cursor: pointer;
+}
+.btn:hover{
+    background-color:  #e6b800;
+    border: none;
+}
+.btn:hover a{
+    color: black;
 }
 .btn a{
     text-decoration: none;
